@@ -1,53 +1,54 @@
-Application Security
+# Application Security
 
-About
+### About
 
-Application developed by Digital Innovation One in partnership with Avanade, during mentorship held on May, 24, 2021, by Code Anywhere Bootcamp.
+<p>Application developed by Digital Innovation One in partnership with Avanade, during mentorship held on May, 24, 2021, by Code Anywhere Bootcamp.<p>
 
-Integrating the application with external APIs (Spring Cloud OpenFeign).
+<p>Integrating the application with external APIs (Spring Cloud OpenFeign).<p>
 
-Development of a user registration application and integration with Postgresql database.
+<p>Development of a user registration application and integration with Postgresql database.<p>
 
-Technologies used
-Java
-Spring Boot
-JPA/Hibernate
+### Technologies used
+* Java
+* Spring Boot
+* JPA/Hibernate
 
-Database
-Postrgresql
+### Database
+* Postrgresql
 
-IDE
-Intellij IDEA
+### IDE
+* Intellij IDEA
 
-Author
-Marcelo Silva de Pontes
-https://www.linkedin.com/in/mspontes360/
+### Author
+<p>Marcelo Silva de Pontes<p>
+
+<https://www.linkedin.com/in/mspontes360/>
+
+  
+# Application Security
+
+### Sobre
+
+<p>Aplicação desenvolvida pela Digital Innovation One em parceria com a Avanade durante mentoria realizada em 24 de maio de 2021, pelo bootcamp Code Anywhere.<p>
+
+<p>Integrando a aplicação com APIs externas (Spring Cloud OpenFeign).<p>
+
+<p>Desenvolvimento de uma aplicação de cadastro de usuários e sua integração ao banco de dados Postgresql.<p>
+
+### Tecnologias utilizadas
+* Java
+* Spring Boot
+* JPA/Hibernate
+
+### Banco de Dados
+* Postrgresql
+
+### IDE
+* Intellij IDEA
 
 
+### Autor
+<p>Marcelo Silva de Pontes<p>
 
-Application Security
-
-Sobre
-
-Aplicação desenvolvida pela Digital Innovation One em parceria com a Avanade durante mentoria realizada em 24 de maio de 2021, pelo bootcamp Code Anywhere.
-
-Integrando a aplicação com APIs externas (Spring Cloud OpenFeign).
-
-Desenvolvimento de uma aplicação de cadastro de usuários e sua integração ao banco de dados Postgresql.
-
-Tecnologias utilizadas
-Java
-Spring Boot
-JPA/Hibernate
-
-Banco de Dados
-Postrgresql
-
-IDE
-Intellij IDEA
-
-Autor
-Marcelo Silva de Pontes
-https://www.linkedin.com/in/mspontes360/
-
+<https://www.linkedin.com/in/mspontes360/>
 
