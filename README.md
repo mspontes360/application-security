@@ -6,7 +6,7 @@
 
 <p>Integrating the application with external APIs (Spring Cloud OpenFeign).<p>
 
-<p>Development of a user registration application and integration with Postgresql database.<p>
+<p>Development of a user registration application and integration with Postgresql database, as well as the login and password security application.<p>
 
 ### Technologies used
 * Java
@@ -33,7 +33,7 @@
 
 <p>Integrando a aplicação com APIs externas (Spring Cloud OpenFeign).<p>
 
-<p>Desenvolvimento de uma aplicação de cadastro de usuários e sua integração ao banco de dados Postgresql.<p>
+<p>Desenvolvimento de uma aplicação de cadastro de usuários e sua integração ao banco de dados Postgresql, bem como a aplicação de segurança de login e senha<p>
 
 ### Tecnologias utilizadas
 * Java
