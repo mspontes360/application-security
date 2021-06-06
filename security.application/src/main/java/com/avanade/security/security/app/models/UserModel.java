@@ -1,16 +1,25 @@
 package com.avanade.security.security.app.models;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table(name = "USERS")
 public class UserModel {
 
+    @Id
+    @Column(length = 20, nullable = false)
     private String UserName;
 
+    @Column(length = 20, nullable = false)
     private String password;
 
+    @Column(length = 20, nullable = false)
     private String firstName;
 
+    @Column(length = 20)
     private String lastName;
 
     public String getUserName() {
