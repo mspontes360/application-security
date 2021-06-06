@@ -20,7 +20,12 @@ public class UserController {
     }
 
     @PostMapping(value = "/save")
-    public void save(@RequestBody UserModel user){
+    public void addUser(@RequestBody UserModel user){
         userRepository.save(user);
+    }
+
+    @DeleteMapping(value = "/delete-user")
+    public void deleteUser(@RequestBody UserModel user){
+        userRepository.delete(user);
     }
 }
